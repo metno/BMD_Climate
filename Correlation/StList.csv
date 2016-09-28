@@ -1,0 +1,36 @@
+Index;Station_ID;Division;Station;Latitude(° N);Longitude(° E);Elavation(m);Station_Type;Establish(Year);Local_ID
+1;41923;Dhaka;Dhaka;23,783;90,38333;8,45;Agromet/PBO;1949;11111
+2;41909;Dhaka;Tangail;24,25;89,93333;10,2;1st Class;1983;41909
+3;41886;Dhaka;Mymensingh;24,733;90,4166;18;Agromet/1st Class;1883;10609
+4;41929;Dhaka;Faridpur;23,6;89,85;8,1;Agromet/1st Class;1883;11505
+5;41939;Dhaka;Madaripur;23,16667;90,183333;7;1st Class;1976;11513
+6;41977;Chittagong;Ctg_Ambagan;22,35;91,8166;33,2;PBO;1937;41977
+7;41978;Chittagong;Ctg_Patenga;22,216;91,8;5,5;MMO;1937;11921
+8;41992;Chittagong;Cox'Bazar;21,45;91,96667;2,1;DMO;1908;11927
+9;41941;Chittagong;Chandpur;23,2333;90,7;4,88;1st Class;1964;11316
+10;41933;Chittagong;Comilla;23,43333;91,18333;7,5;Agromet/RIC;1883;11313
+11;41943;Chittagong;Feni;23,0333;91,41667;6,4;PBO;1973;11805
+12;41963;Chittagong;Hatiya;22,45;91,1;2,44;1st Class;1965;11814
+13;41989;Chittagong;Kutubdia;21,81667;91,85;2,74;1st Class;1977;11925
+14;41953;Chittagong;M_Court;22,86667;91,1;4,87;1st Class;1883;11809
+15;41966;Chittagong;Rangamati;22,6333;92,15;68,89;Agromet/1st Class;1957;12007
+16;41964;Chittagong;Sandwip;22,48333;91,43333;2,1;1st Class;1966;11916
+17;41965;Chittagong;Sitakunda;22,6333;91,7;7,3;1st Class;1977;11912
+18;41998;Chittagong;Teknaf;20,86667;92,3;5;1st Class;1976;11929
+19;41947;khulna;Khulna;22,78333;89,5333;2,1;Agromet/RIC;1921;11604
+20;41936;khulna;Jessore;23,2;89,3333;6,1;PBO;1867;11407
+21;41946;khulna;Satkhira;22,7166;89,08333;3,96;1st Class;1877;11610
+22;41926;khulna;Chuadanga;23,65;88,81667;11,58;1st Class;1986;41926
+23;41958;khulna;Mongla;22,46667;89,6;1,8;1st Class;1988;41958
+24;41950;Barisal;Barisal;22,7166;90,36667;2,1;Agromet/PBO;1883;11704
+25;41960;Barisal;Patuakhali;22,33333;90,33333;1,5;1st Class;1973;12103
+26;41951;Barisal;Bhola;22,68333;90,65;4,3;1st Class;1965;11706
+27;41984;Barisal;khepupara;21,98333;90,23333;1,83;1st Class;1973;12110
+28;41895;Rajshahi;Rajshahi;24,36667;88,7;19,5;Agromet/1st Class;1883;10320
+29;41883;Rajshahi;Bogra;24,85;89,36667;17,9;Agromet/RIC;1884;10408
+30;41907;Rajshahi;Ishurdi;24,15;89,0333;12,9;PBO;1963;10910
+31;41859;Rangpur;Rangpur;25,73333;89,2666;32,61;Agromet/PBO;1883;10208
+32;41863;Rangpur;Dinajpur;25,65;88,68333;37,58;Agromet/1st Class;1883;10120
+33;41858;Rangpur;Sayedpur;25,75;88,916667;39,6;DMO;1980;41858
+34;41891;Sylhet;Sylhet;24,9;91,883333;33,53;DMO;1952;10705
+35;41915;Sylhet;Srimangal;24,3;91,73333;21,95;Agromet/1st Class;1905;10724
